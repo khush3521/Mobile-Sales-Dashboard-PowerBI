@@ -49,11 +49,12 @@ This Power BI project includes three professional dashboards:
 
 Dashboard Previews
 Mobile Sales Dashboard
-
+- https://github.com/khush3521/Mobile-Sales-Dashboard-PowerBI/blob/main/Screenshot%202025-12-07%20224042.png
+- 
 
 MTD Dashboard
 
-(Add image here)
+
 
 Same Period Last Year Dashboard
 
