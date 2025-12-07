@@ -9,70 +9,47 @@ This Power BI project includes three professional dashboards:
 
 ## Mobile Sales Dashboard
 
-Analyzes full sales performance including:
-
-Total Sales
-
-Number of Transactions
-
-Average Price
-
-Total Quantity
-
-Sales by City
-
-Sales by Mobile Model
-
-Sales Trend by Month
-
-Customer Rating Distribution
-
-Transaction Share by Payment Method
-
-Sales by Day of the Week
+ - Analyzes full sales performance including:
+-  Total Sales
+-  Number of Transactions
+-  Average Price
+ - Total Quantity
+-  Sales by City
+-  Sales by Mobile Model
+ - Sales Trend by Month
+-  Customer Rating Distribution
+-  Transaction Share by Payment Method
+ - Sales by Day of the Week
 
 ## MTD (Month-To-Date) Report
 
-Tracks month-to-date performance:
-
-Daily cumulative sales growth
-
-MTD analysis by Year, Quarter, Month
-
-KPI metrics (Sales, Quantity, Avg Price, Transactions)
+-  Tracks month-to-date performance:
+-  Daily cumulative sales growth
+-  MTD analysis by Year, Quarter, Month
+-  KPI metrics (Sales, Quantity, Avg Price, Transactions)
 
 ## Same Period Last Year (SPLY) Dashboard
 
-Compares current and previous year:
-
-Sales vs Last Year by Year
-
-Sales vs Last Year by Quarter
-
-Sales vs Last Year by Month
-
-Detailed data table with yearly & quarterly comparison
-
-🛠 Tools & Technologies Used
+  - Compares current and previous year:
+  - Sales vs Last Year by Year
+  - Sales vs Last Year by Quarter
+  - Sales vs Last Year by Month
+  - Detailed data table with yearly & quarterly comparison
+  - 
+### Tools & Technologies Used
 
 Power BI Desktop
-
 Power Query
-
 DAX (Data Analysis Expressions)
-
 Excel / CSV (Dataset)
-
 Data Modeling
-
 Data Transformation
 
 
 
-📸 Dashboard Previews
+Dashboard Previews
 Mobile Sales Dashboard
 
-(Add image here)
 
 MTD Dashboard
 
