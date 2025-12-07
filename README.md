@@ -3,11 +3,11 @@ Mobile Service Sales | MTD Report | Same Period Last Year (SPLY)
 
 A complete Power BI project designed to analyze mobile sales performance, understand customer behavior, track month-to-date growth, and compare revenue trends with previous years.
 
-🔥 📁 Project Overview
+# Project Overview
 
 This Power BI project includes three professional dashboards:
 
-1️⃣ Mobile Sales Dashboard
+1️ Mobile Sales Dashboard
 
 Analyzes full sales performance including:
 
@@ -31,7 +31,7 @@ Transaction Share by Payment Method
 
 Sales by Day of the Week
 
-2️⃣ MTD (Month-To-Date) Report
+2️ MTD (Month-To-Date) Report
 
 Tracks month-to-date performance:
 
@@ -41,7 +41,7 @@ MTD analysis by Year, Quarter, Month
 
 KPI metrics (Sales, Quantity, Avg Price, Transactions)
 
-3️⃣ Same Period Last Year (SPLY) Dashboard
+3️ Same Period Last Year (SPLY) Dashboard
 
 Compares current and previous year:
 
@@ -67,15 +67,7 @@ Data Modeling
 
 Data Transformation
 
-📂 Project Structure
-📁 Mobile-Sales-Dashboard-PowerBI
-│── PowerBI_Mobile_Sales.pbix
-│── README.md
-│── dataset.xlsx / csv
-└── Images/
-    ├── main_dashboard.png
-    ├── mtd_report.png
-    └── same_period_last_year.png
+
 
 📸 Dashboard Previews
 Mobile Sales Dashboard
