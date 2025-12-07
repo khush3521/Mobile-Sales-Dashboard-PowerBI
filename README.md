@@ -7,7 +7,7 @@ A complete Power BI project designed to analyze mobile sales performance, unders
 
 This Power BI project includes three professional dashboards:
 
-1️ Mobile Sales Dashboard
+## Mobile Sales Dashboard
 
 Analyzes full sales performance including:
 
@@ -31,7 +31,7 @@ Transaction Share by Payment Method
 
 Sales by Day of the Week
 
-2️ MTD (Month-To-Date) Report
+## MTD (Month-To-Date) Report
 
 Tracks month-to-date performance:
 
@@ -41,7 +41,7 @@ MTD analysis by Year, Quarter, Month
 
 KPI metrics (Sales, Quantity, Avg Price, Transactions)
 
-3️ Same Period Last Year (SPLY) Dashboard
+## Same Period Last Year (SPLY) Dashboard
 
 Compares current and previous year:
 
