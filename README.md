@@ -50,38 +50,28 @@ This Power BI project includes three professional dashboards:
 Dashboard Previews
 Mobile Sales Dashboard
 - https://github.com/khush3521/Mobile-Sales-Dashboard-PowerBI/blob/main/Screenshot%202025-12-07%20224042.png
-- 
+
 
 MTD Dashboard
-
+- https://github.com/khush3521/Mobile-Sales-Dashboard-PowerBI/blob/main/Screenshot%202025-12-07%20224111.png
 
 
 Same Period Last Year Dashboard
+- https://github.com/khush3521/Mobile-Sales-Dashboard-PowerBI/blob/main/Screenshot%202025-12-07%20224120.png
 
-(Add image here)
+###  Key Insights From This Report
 
-📈 Key Insights From This Report
+- Identified top-performing mobile brands & models
+- Mapped sales contribution by each city
+- Analyzed customer rating patterns
+- Compared sales YoY to identify growth and decline
+- Observed payment method preference of customers
+- Strong seasonal trends were identified month by month
 
-Identified top-performing mobile brands & models
+#### Learning Outcomes
 
-Mapped sales contribution by each city
-
-Analyzed customer rating patterns
-
-Compared sales YoY to identify growth and decline
-
-Observed payment method preference of customers
-
-Strong seasonal trends were identified month by month
-
-🚀 Learning Outcomes
-
-Advanced Power BI Visualization
-
-Data Modeling & DAX Calculations
-
-Period-over-Period analysis (MTD, YTD, SPLY)
-
-Professional dashboard design & layout
-
-Insight storytelling using data
+- Advanced Power BI Visualization
+- Data Modeling & DAX Calculations
+- Period-over-Period analysis (MTD, YTD, SPLY)
+- Professional dashboard design & layout
+- Insight storytelling using data
