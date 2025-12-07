@@ -1,4 +1,4 @@
-Mobile Sales Analysis – Power BI Dashboard
+# Mobile Sales Analysis – Power BI Dashboard
 Mobile Service Sales | MTD Report | Same Period Last Year (SPLY)
 
 A complete Power BI project designed to analyze mobile sales performance, understand customer behavior, track month-to-date growth, and compare revenue trends with previous years.
@@ -38,12 +38,12 @@ This Power BI project includes three professional dashboards:
   - 
 ### Tools & Technologies Used
 
-Power BI Desktop
-Power Query
-DAX (Data Analysis Expressions)
-Excel / CSV (Dataset)
-Data Modeling
-Data Transformation
+- Power BI Desktop
+- Power Query
+- DAX (Data Analysis Expressions)
+- Excel / CSV (Dataset)
+- Data Modeling
+- Data Transformation
 
 
 
